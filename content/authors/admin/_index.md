@@ -39,21 +39,21 @@ interests:
  - Causal inference (under network interference)
 
 education:
-  - area: PhD Statistics
-    institution: University of Washington
-    # date_start: 2021-09-28
-  - area: A.B Mathematics
-    institution: Princeton University
-    # date_start: 2017-08-28
-    # date_end: 2021-05-30
-    summary: |
-      Certificates (minors):
-      - Applied and Computational Mathematics
-      - Statistics and Machine Learning
-      - Theater
-    button:
-      text: 'Thesis'
-      url: 'https://dataspace.princeton.edu/handle/88435/dsp01mc87pt34s'
+  # - area: PhD Statistics
+  #   institution: University of Washington
+  #   # date_start: 2021-09-28
+  # - area: A.B Mathematics
+  #   institution: Princeton University
+  #   # date_start: 2017-08-28
+  #   # date_end: 2021-05-30
+  #   summary: |
+  #     Certificates (minors):
+  #     - Applied and Computational Mathematics
+  #     - Statistics and Machine Learning
+  #     - Theater
+  #   button:
+  #     text: 'Thesis'
+  #     url: 'https://dataspace.princeton.edu/handle/88435/dsp01mc87pt34s'
 ---
 
 ## About Me
