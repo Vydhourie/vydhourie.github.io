@@ -55,6 +55,8 @@ education:
       - Applied and Computational Mathematics
       - Statistics and Machine Learning
       - Theater
+
+      
 ---
 
 ## About Me
