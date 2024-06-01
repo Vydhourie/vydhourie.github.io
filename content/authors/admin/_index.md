@@ -41,13 +41,13 @@ interests:
 education:
   - area: PhD Statistics
     institution: University of Washington
-    date_start: 2021-09-28
+    # date_start: 2021-09-28
   - area: A.B Mathematics
     institution: Princeton University
-    date_start: 2017-08-28
-    date_end: 2021-05-30
-    summary: |
-      ""
+    # date_start: 2017-08-28
+    # date_end: 2021-05-30
+    # summary: |
+    #   ""
     button:
       text: 'Thesis'
       url: 'https://dataspace.princeton.edu/handle/88435/dsp01mc87pt34s'
