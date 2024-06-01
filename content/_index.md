@@ -13,11 +13,8 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: "I can be reached at vrtt(at)uw(dot)edu"
-      # Show a call-to-action button under your biography? (optional)
-      # button:
-      #   text: Download CV
-      #   url: uploads/resume.pdf
+      text: |-
+        I can be reached at vrtt(at)uw(dot)edu
     design:
       css_class: dark
       background:
