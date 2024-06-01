@@ -12,7 +12,7 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: Vydhourie
       text: "I can be reached at vrtt(at)uw(dot)edu"
       # Show a call-to-action button under your biography? (optional)
       # button:
