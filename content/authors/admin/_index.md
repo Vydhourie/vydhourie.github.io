@@ -46,15 +46,15 @@ education:
     institution: Princeton University
     # date_start: 2017-08-28
     # date_end: 2021-05-30
-    # summary: |
-    #   ""
+    summary: |
+      certificates (minors):
+        - Applied and Computational Mathematics
+        - Statistics and Machine Learning
+        - Theater
     button:
       text: 'Thesis'
       url: 'https://dataspace.princeton.edu/handle/88435/dsp01mc87pt34s'
-      certificates (minors):
-      - Applied and Computational Mathematics
-      - Statistics and Machine Learning
-      - Theater
+
 ---
 
 ## About Me
