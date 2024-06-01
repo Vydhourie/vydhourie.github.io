@@ -28,6 +28,6 @@ main:
   - name: Projects
     url: projects/
     weight: 50
-  - name: Others
-    url: others/
+  - name: Other
+    url: other/
     weight: 60
