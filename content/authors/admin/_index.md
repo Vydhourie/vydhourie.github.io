@@ -3,7 +3,7 @@
 title: Vydhourie
 
 # Name pronunciation (optional)
-name_pronunciation: Vydhourie
+# name_pronunciation: Vydhourie
 
 # Full name (for SEO)
 first_name: Vydhourie
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: ""
+# role: ""
 
 
 # Social network links
