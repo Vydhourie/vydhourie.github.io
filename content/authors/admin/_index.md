@@ -40,9 +40,9 @@ profiles:
   # - icon: brands/github
   #   url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/vydhourie-thiyageswaran-00312589
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=s21Z6JYAAAAJ&hl=en&oi=ao
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
