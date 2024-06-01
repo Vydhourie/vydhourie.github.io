@@ -7,11 +7,11 @@ name_pronunciation: Vydhourie
 
 # Full name (for SEO)
 first_name: Vydhourie
-last_name: Vydhourie
+last_name: R T Thiyageswaran
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ""
 
 # Is this the primary user of the site?
 superuser: true
