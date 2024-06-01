@@ -41,12 +41,12 @@ interests:
 education:
   - area: PhD Statistics
     institution: University of Washington
-    date_start: 2021-09
+    date_start: 2021-09-28
     date_end: present
   - area: A.B Mathematics
     institution: Princeton University
-    date_start: 2017-08
-    date_end: 2021-05
+    date_start: 2017-08-28
+    date_end: 2021-05-30
     summary: |
       ""
     button:
