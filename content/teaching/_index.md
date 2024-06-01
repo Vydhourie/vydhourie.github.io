@@ -25,15 +25,15 @@ sections:
       title: 'Courses'
       subtitle: 'Teaching Assistant'
       text: |
-      # University of Washington:
-      #   - STAT 311 (Statistical Methods)
-      #   - STAT 220 (Statistical Reasoning)
-      #   - STAT 390 (Probability and Statistics)
-      #   - STAT 535 (Graduate Couse: Statistical Learning)
+      University of Washington (teaching assistant):
+        - STAT 311 (Statistical Methods)
+        - STAT 220 (Statistical Reasoning)
+        - STAT 390 (Probability and Statistics)
+        - STAT 535 (Graduate Couse: Statistical Learning)
 
-      #   Princeton University:
-      #   - ORF 387 (Networks)
-      #   - SML 201 (Introduction to Data Science)
+        Princeton University (undergraduate course assistant):
+        - ORF 387 (Networks)
+        - SML 201 (Introduction to Data Science)
     design:
       columns: '1'
 
@@ -41,8 +41,8 @@ sections:
     content:
       title: 'Mentoring'
       subtitle: 'Directed Reading Program'
-      text: |-
-      I have really enjoyed mentoring five undergraduate students over four quarters on learning about probability and graphs.
+      text: |
+        I have really enjoyed mentoring five undergraduate students over four quarters on learning about probability and graphs.
     design:
       columns: '1'
 ---
