@@ -55,9 +55,8 @@ education:
       - Applied and Computational Mathematics
       - Statistics and Machine Learning
       - Theater
-
-      
 ---
 
 ## About Me
+
 I am a third-year PhD student in the Department of Statistics at University of Washington, Seattle. My research interests lie in statistical machine learning, probability, combinatorial optimization, graphs, and causal inference particularly under network interference. Previously, I graduated from Princeton University with an A.B. in Mathematics, and certificates (minors) in Applied and Computational Mathematics, Statistics and Machine Learning, and Theater. At Princeton, I was very fortunate to have worked with Professor Miklos Racz on opinion exchange dynamics on networks. I also enjoyed writing my undergraduate thesis on last passage percolation under the supervision of Professor Duncan Dauvergene, while I completed a fun independent project on training transformers to play gin-rummy with Professor Michael Guerzhoy. At the Theater Department at Princeton, I also throughly enjoyed playwriting under the guidance of Nathan Alan Davis.
