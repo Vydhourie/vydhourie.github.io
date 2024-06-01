@@ -54,8 +54,8 @@ interests:
   - Causal inference (under network interference)
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Statistics
+    institution: University of Washington
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -63,51 +63,15 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: A.B. Mathematics
+    institution: Princeton University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Certificates (minors):
+      - Applied and Computational Mathematics
+      - Statistics and Macine Learning
+      - Theater
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -143,14 +107,6 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -185,6 +141,6 @@ awards:
 
 ## About Me
 
-I am a third-year PhD student in the Department of Statistics at [University of Washington](https://www.washington.edu/), Seattle. My research interests lie in statistical machine learning, probability, combinatorial optimization, graphs, and causal inference particularly under network interference. Previously, I graduated from Princeton University with an A.B. in Mathematics, and certificates (minors) in Applied and Computational Mathematics, Statistics and Machine Learning, and Theater. At Princeton, I was very fortunate to have worked with Professor Miklos Racz on opinion exchange dynamics on networks. I also enjoyed writing my undergraduate thesis on last passage percolation under the supervision of Professor Duncan Dauvergene, while I completed a fun independent project on training transformers to play gin-rummy with Professor Michael Guerzhoy. At Princeton, I also thoroughly enjoyed playwriting under the guidance of Nathan Alan Davis.
+I am a third-year PhD student in the Department of Statistics at University of Washington, Seattle. My research interests lie in statistical machine learning, probability, combinatorial optimization, graphs, and causal inference particularly under network interference. Previously, I graduated from Princeton University with an A.B. in Mathematics, and certificates (minors) in Applied and Computational Mathematics, Statistics and Machine Learning, and Theater. At Princeton, I was very fortunate to have worked with [Professor Miklos Racz](https://racz.statistics.northwestern.edu/) on opinion exchange dynamics on networks. I also enjoyed writing my undergraduate thesis on last passage percolation under the supervision of [Professor Duncan Dauvergene](https://www.math.toronto.edu/ddauver/), while I completed a fun independent project on training transformers to play gin-rummy with [Professor Michael Guerzhoy](https://www.cs.toronto.edu/~guerzhoy/). At Princeton, I also thoroughly enjoyed playwriting under the guidance of [Nathan Alan Davis](https://www.nathanalandavis.com/).
 
 I can be reached at vrtt(at)uw(dot)edu
