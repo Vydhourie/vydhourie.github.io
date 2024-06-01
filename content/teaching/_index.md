@@ -25,15 +25,15 @@ sections:
       title: 'Courses'
       subtitle: 'Teaching Assistant'
       text: |-
-        University of Washington:
-        - STAT 311 (Statistical Methods)
-        - STAT 220 (Statistical Reasoning)
-        - STAT 390 (Probability and Statistics)
-        - STAT 535 (Graduate Couse: Statistical Learning)
+      # University of Washington:
+      #   - STAT 311 (Statistical Methods)
+      #   - STAT 220 (Statistical Reasoning)
+      #   - STAT 390 (Probability and Statistics)
+      #   - STAT 535 (Graduate Couse: Statistical Learning)
 
-        Princeton University:
-        - ORF 387 (Networks)
-        - SML 201 (Introduction to Data Science)
+      #   Princeton University:
+      #   - ORF 387 (Networks)
+      #   - SML 201 (Introduction to Data Science)
     design:
       columns: '1'
 
