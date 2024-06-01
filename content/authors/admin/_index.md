@@ -42,7 +42,6 @@ education:
   - area: PhD Statistics
     institution: University of Washington
     date_start: 2021-09-28
-    date_end: present
   - area: A.B Mathematics
     institution: Princeton University
     date_start: 2017-08-28
