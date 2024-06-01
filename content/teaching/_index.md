@@ -42,7 +42,7 @@ sections:
       title: 'Mentoring'
       subtitle: 'Directed Reading Program'
       text: |
-        I have really enjoyed mentoring five undergraduate students over four quarters on learning about probability and graphs.
+        I have really enjoyed mentoring five undergraduate students over four quarters on learning about probability and graph through the Directed Reading Program at UW Statistics.
     design:
       columns: '1'
 ---
