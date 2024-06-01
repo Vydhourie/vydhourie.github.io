@@ -24,7 +24,7 @@ sections:
     content:
       title: 'Courses'
       subtitle: 'Teaching Assistant'
-      text: |-
+      text: |
       # University of Washington:
       #   - STAT 311 (Statistical Methods)
       #   - STAT 220 (Statistical Reasoning)
@@ -42,7 +42,7 @@ sections:
       title: 'Mentoring'
       subtitle: 'Directed Reading Program'
       text: |-
-      I have mentored five undergraduate students over four quarters on learning about probability and graphs.
+      I have really enjoyed mentoring five undergraduate students over four quarters on learning about probability and graphs.
     design:
       columns: '1'
 ---
