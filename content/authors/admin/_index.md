@@ -52,6 +52,7 @@ interests:
   - Graphs
   - Combinatorial Optimization
   - Causal inference (under network interference)
+  - Reinforcement Learning
 
 education:
   - area: PhD Statistics
