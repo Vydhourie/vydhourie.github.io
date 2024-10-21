@@ -51,7 +51,7 @@ interests:
   - Probability
   - Graphs
   - Combinatorial Optimization
-  - Causal inference (under network interference)
+  - Experimental Design & Causal inference (under network interference)
   - Reinforcement Learning
 
 education:
@@ -142,6 +142,6 @@ education:
 
 ## About Me
 
-I am a third-year PhD student in the Department of Statistics at University of Washington, Seattle. My research interests lie in statistical machine learning, probability, combinatorial optimization, graphs, and causal inference particularly under network interference. Previously, I graduated from Princeton University with an A.B. in Mathematics, and certificates (minors) in Applied and Computational Mathematics, Statistics and Machine Learning, and Theater. At Princeton, I was very fortunate to have worked with [Professor Miklos Racz](https://racz.statistics.northwestern.edu/) on opinion exchange dynamics on networks. I also enjoyed writing my undergraduate thesis on last passage percolation under the supervision of [Professor Duncan Dauvergene](https://www.math.toronto.edu/ddauver/), while I completed a fun independent project on training transformers to play gin-rummy with [Professor Michael Guerzhoy](https://www.cs.toronto.edu/~guerzhoy/). At Princeton, I also thoroughly enjoyed playwriting under the guidance of [Nathan Alan Davis](https://www.nathanalandavis.com/).
+I am a fourth-year PhD student in the Department of Statistics at University of Washington, Seattle. My research interests lie in statistical machine learning, probability, combinatorial optimization, graphs, experimental design, and causal inference particularly under network interference. Previously, I graduated from Princeton University with an A.B. in Mathematics, and certificates (minors) in Applied and Computational Mathematics, Statistics and Machine Learning, and Theater. At Princeton, I was very fortunate to have worked with [Professor Miklos Racz](https://racz.statistics.northwestern.edu/) on opinion exchange dynamics on networks. I also enjoyed writing my undergraduate thesis on last passage percolation under the supervision of [Professor Duncan Dauvergene](https://www.math.toronto.edu/ddauver/), while I completed a fun independent project on training transformers to play gin-rummy with [Professor Michael Guerzhoy](https://www.cs.toronto.edu/~guerzhoy/). At Princeton, I also thoroughly enjoyed playwriting under the guidance of [Nathan Alan Davis](https://www.nathanalandavis.com/).
 
 I can be reached at vrtt(at)uw(dot)edu
